@@ -4,9 +4,9 @@
 
 ### 🔗 Links
 
-- **All Models (Drive):** [Google Drive](https://drive.google.com/drive/folders/1U46EsIHwJhOGTT6QQvoPfhkrfDRHd1Iw?usp=sharing)  
-- **Dataset Used:** [Paul Mooney (Kaggle)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)  
-- **Website Repository:** [GitHub - Pneumonia Detection Website](https://github.com/AsteroidCap4040/Pneumonia-Detection-Django)
+- **All Models (Drive):** <a href="https://drive.google.com/drive/folders/1U46EsIHwJhOGTT6QQvoPfhkrfDRHd1Iw?usp=sharing" target="_blank">Google Drive</a>  
+- **Dataset Used:** <a href="https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia" target="_blank">Paul Mooney (Kaggle)</a>  
+- **Website Repository:** <a href="https://github.com/AsteroidCap4040/Pneumonia-Detection-Django" target="_blank">GitHub - Pneumonia Detection Website</a>
 
 ---
 
